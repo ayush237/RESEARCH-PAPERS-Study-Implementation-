@@ -1,0 +1,1 @@
+In this project i am putting up explanation and code implementation of various crucial Computer Vision CNN Architectures that have lead to today's advanced and intelligent Computer vision. This will surely help you to study and compare each of these architectures easily with your desired dataset and visualise the models for efficient comparision and study.
